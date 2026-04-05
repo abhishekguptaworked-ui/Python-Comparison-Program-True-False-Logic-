@@ -1,0 +1,32 @@
+# Qustion - wap to input 2 int numbers,a and b 
+# print ture if a is greater than  or equal to b . if not print false
+
+# first menthon its only used in one case output 
+
+# frist  = int(input("enter your frist num : "))
+# second = int(input("enter your second num : "))
+
+# result = ("ture","false")  [frist >= second]
+# print(result)
+
+# # second menthon
+
+# frist  = int(input("enter your frist num : "))
+# second = int(input("enter your second num : "))
+
+# if frist >= second :
+#     print("true")
+# elif second >= frist :
+#     print("false")
+# else :
+#     print("not vaild number")
+
+# third menthod easy way to get ture and false 
+
+# frist  = int(input("enter your frist num : "))
+# second = int(input("enter your second num : "))
+
+# print(frist >= second)
+
+
+
